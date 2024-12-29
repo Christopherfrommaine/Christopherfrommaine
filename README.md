@@ -1,6 +1,6 @@
 -  Hi, I’m @Christopherfrommaine
 -  I’m interested in Physics, Math, Computer Science, Music, Philosophy
--  I mostly code in python, but I'm fairly proficient in the Wolfram Language, and I'm working on learning Julia
+-  I code in python, the Wolfram Language, and I'm learning rust.
 -  In the past I've coded some Q#, C++, and p5js but I forget most of it tbh
 
 <!---
